@@ -1,5 +1,6 @@
 <h1 align="center">Heyo 👋, I'm Fazanwolf</h1>
-<font align="center" size="4">IT student and developer from Reunion Island</font>
+
+<sub align="center" size="4">IT student and developer from Reunion Island</sub>
 <h2 align="center" size="4">IT student and developer from Reunion Island</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fazanwolf&label=Profile%20views&color=0e75b6&style=flat" alt="fazanwolf" /> </p>
