@@ -25,7 +25,10 @@
     📝 About me
 </h2>
 
-<img align="right" src="https://64.media.tumblr.com/9ca4a2538e8fb61842aeebcbef3d9435/50fb637a17cfb891-a1/s640x960/c5aaef27140a7acb5442a25f5891d8d3afb0e9f4.gif" height="350" width="280" alt="loading-gif" title="it8Bit on Tumblr" />
+<!--
+    Need to replace the content of src with my banner
+    <img align="right" src="" height="350" width="280" alt="loading-gif" title="it8Bit on Tumblr" /> 
+-->
 
 <ul>
     <li>🇷🇪 I'm from Reunion Island</li>
