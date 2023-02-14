@@ -1,15 +1,68 @@
-<h1 align="center">Heyo 👋, I'm Fazanwolf</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Cutive&duration=3000&pause=500&color=F79A14&center=true&multiline=true&repeat=false&width=500&height=80&lines=Heyo!+👋;I'm+Fazanwolf+%F0%9F%90%BA;I'm+a+3rd+year+student+at+Epitech+Reunion" alt="Typing SVG" />
+</h1>
 
-<h3 align="center">IT student and developer from Reunion Island</h3>
+<h3 align="center">
+    IT student from Reunion Island. 🇷🇪
+    <br>
+    Passionate developer in my spare time. ☕
+    <br>
+    I never lose. I either win or learn. 🌕
+</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fazanwolf&label=Profile%20views&color=0e75b6&style=flat" alt="fazanwolf" /> </p>
+<div align="center">
+    <a href="https://discord.com/users/373847804289875969" title="My discord">
+        <img src="https://img.shields.io/static/v1?label=Discord&message=Fazanwolf%230006&color=5865F2&style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord - Fazanwolf#0006" />
+    </a>&#8287;&#8287;
+    <a href="mailto:fazanwolf.pro@gmail.com" title="My Pro Mail">
+       <img src="https://img.shields.io/static/v1?label=Mail&message=fazanwolf.pro%40gmail.com&color=3e65cf&style=for-the-badge&logo=gmail&logoColor=c71610" alt="Mail - contact me" />
+    </a>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=fazanwolf&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazanwolf&theme=chalk" alt="fazanwolf" /></a> </p>
+<h2>
+    📝 About me
+</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img align="right" src="https://64.media.tumblr.com/9ca4a2538e8fb61842aeebcbef3d9435/50fb637a17cfb891-a1/s640x960/c5aaef27140a7acb5442a25f5891d8d3afb0e9f4.gif" height="350" width="280" alt="loading-gif" title="it8Bit on Tumblr" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazanwolf&show_icons=true&locale=en&layout=compact&theme=dark" alt="fazanwolf" /></p>
+<ul>
+    <li>🇷🇪 I'm from Reunion Island</li>
+    <li>🎓 I'm a <b>3rd year student</b> at <a href="https://epitech.eu">Epitech</a></li>
+    <li>🔭 I’m currently working on <a href="https://github.com/SkyMachi">SkyMachi</a>, <a href="https://github.com/StreetLess">StreetLess</a></li>
+    <li>💬 Ask me about <b>C</b>, <b>C++</b>, <b>Node.js</b>, <b>Typescript</b></li>
+    <li>📫 How to reach me: <b><a href="mailto:fazanwolf.pro@gmail.com">fazanwolf.pro@gmail.com</a></b></li>
+    <li>⚡ Carl Sandburg quote: The Moon is a friend for the lonesome to talk to.</li>
+    <li>
+        👀 My Hobbies
+        <ul>
+            <li>🎮 Gaming</li>
+            <li>📚 Reading Manga/Manhwa</li>
+            <li>🖥️ Programming</li>
+            <li>🕵️ Cybersecurity</li>
+            <li>💤 Sleeping</li>
+        </ul>
+    </li>
+</ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazanwolf&show_icons=true&locale=en&theme=dark" alt="fazanwolf" /></p>
+<h2>
+    ✨ Skills & 🔨 Tools
+</h2>
 
+
+<details open>
+    <summary> 🛠️ Main Skills </summary>
+    <br>
+
+
+</details>
+
+
+
+<details open>
+    <summary> 🔧 Other Skills </summary>
+    <br>
+
+
+</details>
