@@ -48,24 +48,3 @@
         </ul>
     </li>
 </ul>
-
-<h2>
-    ✨ Skills & 🔨 Tools
-</h2>
-
-
-<details open>
-    <summary> 🛠️ Main Skills </summary>
-    <br>
-
-
-</details>
-
-
-
-<details open>
-    <summary> 🔧 Other Skills </summary>
-    <br>
-
-
-</details>
