@@ -35,7 +35,7 @@
     <li>🎓 I'm a <b>3rd year student</b> at <a href="https://epitech.eu">Epitech</a></li>
     <li>🔭 I’m currently working on <a href="https://github.com/SkyMachi">SkyMachi</a>, <a href="https://github.com/StreetLess">StreetLess</a></li>
     <li>💬 Ask me about <b>C</b>, <b>C++</b>, <b>Node.js</b>, <b>Typescript</b></li>
-    <li>📫 How to reach me: <b><a href="mailto:fazanwolf.pro@gmail.com">fazanwolf.pro@gmail.com</a></b></li>
+    <li>📫 How to reach me: <b><a href="mailto:contact@fazanwolf.re">contact@fazanwolf.re</a></b></li>
     <li>⚡ Carl Sandburg quote: The Moon is a friend for the lonesome to talk to.</li>
     <li>
         👀 My Hobbies
