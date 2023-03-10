@@ -14,8 +14,8 @@
     <a href="https://discord.com/users/373847804289875969" title="My discord">
         <img src="https://img.shields.io/static/v1?label=Discord&message=Fazanwolf%230006&color=5865F2&style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord - Fazanwolf#0006" />
     </a>&#8287;&#8287;
-    <a href="mailto:fazanwolf.pro@gmail.com" title="My Pro Mail">
-       <img src="https://img.shields.io/static/v1?label=Mail&message=fazanwolf.pro%40gmail.com&color=3e65cf&style=for-the-badge&logo=gmail&logoColor=c71610" alt="Mail - contact me" />
+    <a href="mailto:contact@fazanwolf.re" title="My Pro Mail">
+       <img src="https://img.shields.io/static/v1?label=Mail&message=contact%40fazawolf.re&color=3e65cf&style=for-the-badge&logo=gmail&logoColor=c71610" alt="Mail - contact me" />
     </a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=fazanwolf&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
